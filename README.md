@@ -22,3 +22,7 @@
 - **Checkpoints**: `dbpedia_project/checkpoints/`
 - **Baseline**: `dbpedia_project/tfidf_svm_baseline.pkl`
 
+
+1. Final Submission located [here](./final_submission/)
+   - Contains 2 Jupyter Notebooks for testing and execution
+   - Contains the final DistilBERT model
